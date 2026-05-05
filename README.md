@@ -98,6 +98,16 @@ Designed a complete end-to-end grocery shopping experience with:
 
 ---
 
+
+
+## 📄 Full UX Case Study
+
+🚀 Dive into the complete Super Shopper experience — from research to high-fidelity prototypes (100+ screens):
+
+👉 **[View Complete Case Study](https://drive.google.com/file/d/1_UZ95wtExtgZZMRkEiOr3Z3PvuHj_CO1/view?usp=sharing)**
+
+---
+
 ## 📌 Future Improvements
 - Add personalized recommendations  
 - Integrate real-time inventory updates  
